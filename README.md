@@ -10,6 +10,12 @@ I’m a Junior Mobile Developer with experience in developing iOS and Android ap
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ashleydee1999?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
    </p>
 
+### Connect with me:
+[<img src="https://img.icons8.com/color/48/null/gmail--v1.png"/>][mail1]
+[<img src="https://img.icons8.com/color/48/null/gmail--v1.png"/>][mail2]
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
+
+
 ---
 
 ### 🧰 Languages and Tools
@@ -34,12 +40,6 @@ I’m a Junior Mobile Developer with experience in developing iOS and Android ap
 ### 📊 Stats
 
 ![Ashleys's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashleydee1999&show_icons=true&theme=slateorange)
-
-### Connect with me:
-[<img src="https://img.icons8.com/color/48/null/gmail--v1.png"/>][mail1]
-[<img src="https://img.icons8.com/color/48/null/gmail--v1.png"/>][mail2]
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
-
 #
  <summary><h3>👨‍💻 Ashley's Coding Journey</h3></summary>
 
